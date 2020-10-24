@@ -1,0 +1,23 @@
+Basic HTML Tags:
+---------------------------------------------------------------------------------------
+<! --     -->	                                                                  specifies comments
+<A>……….</A>								  creates hypertext links
+<B>……….</B>							       	  formats text as bold
+<BIG>……….</BIG>        						  formats text in large font.
+<BODY>…</BODY>        						  contains all tags and text in the HTML document
+<CENTER>...</CENTER> 						  creates text
+<DD>…</DD>								  definition of a term
+<DL>...</DL>								       	 creates definition list
+<FONT>…</FONT>						         formats text with a particular font
+<FORM>...</FORM>	                                                 encloses a fill-out form
+<FRAME>...</FRAME>     	                                         defines a particular frame in a set of frames
+<H#>…</H#>	                                                                 creates headings of different levels( 1 – 6 ) 
+<HEAD>...</HEAD>             	                                         contains tags that specify information about a document
+<HR>...</HR>                                                         	creates a horizontal rule
+<HTML>…</HTML>        						contains all other HTML tags
+<META>...</META>							provides meta-information about a document
+<SCRIPT>…</SCRIPT>    						contains client-side or server-side script
+<TABLE>…</TABLE>     						creates a table
+<TD>…</TD>									indicates table data in a table
+<TR>…</TR>									designates a table row
+<TH>…</TH>									creates a heading in a table

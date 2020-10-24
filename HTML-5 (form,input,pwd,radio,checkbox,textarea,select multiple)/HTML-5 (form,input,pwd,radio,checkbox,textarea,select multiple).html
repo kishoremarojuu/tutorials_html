@@ -1,0 +1,40 @@
+<!--form,input,pwd,radio,checkbox,text area,select multiple -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+
+ <BODY bgcolor="fff123">
+  <form action="addservlet" method ="post">  <!-- the diff between get and post isif we submit the follwing data with get the data we enterd in the boxes will appear in the url above,if with post the data will not appear in the url-->
+  <u><h3>Registration page</h3></u>
+  <pre>
+   enter name       :<input  type="text"          name ="t1">
+   enter password:<input  type="password" name ="t2">
+   enter confirm password:<input  type="password" name ="t3">
+    enter gender    :<input  type="radio" name ="t4" value="male">male <input  type="radio" name ="t4" value="female">female 
+	                    
+	select the education:<input  type="checkbox" name ="t6" value="ug"> ug <input  type="checkbox" name ="t6" value="pg"> pg 
+							   	  
+     enter the address <textarea rows="3" cols="17"></textarea>
+
+	 course to enroll:<select multiple>
+			<option>java</option>
+			<option>.net</option>
+			<option >html</option>
+				</select><br>
+	
+	choose your country:<select name="country">
+			<option>India</option>
+			<option>USA</option>
+			<option >Australia</option>
+			<option >China</option>
+				</select><br>
+
+	Upload your resume:<input type ="file" value ="upload your resume"><br>
+	               <input  type="submit" value="register"> 	<input  type="reset" value="clear"><br>
+				   
+
+   </pre>
+
+</form>
+ </BODY>
+</HTML>

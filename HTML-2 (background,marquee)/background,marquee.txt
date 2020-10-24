@@ -1,0 +1,4 @@
+Background tag :we can set the background image as per our like
+
+marquee:By giving this we can give some qualities to the text /image 
+           like directions,behaviors
